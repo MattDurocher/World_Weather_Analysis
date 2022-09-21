@@ -3,6 +3,8 @@ config.py
 random_numbers.ipynb
 Google_Nearby_Search.ipynb
 config_2.py
+vacation_config.py
+Itinerary_config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
