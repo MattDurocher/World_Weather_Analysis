@@ -1,1 +1,2 @@
 # World Weather Analysis
+The purpose of this project was to work on the PlanMyTrip app so that you could plan out a vacation with selected weather preferences based on temperature. My vacation used to test out this trip that took me around the United States on a four city tour in Laguna, Cedar City, Rincon, and Palmer. My results were shown with both a travel trip route and a marker map. Included on the file is also a markers map with every city that was pulled onto the data frame from the API.
